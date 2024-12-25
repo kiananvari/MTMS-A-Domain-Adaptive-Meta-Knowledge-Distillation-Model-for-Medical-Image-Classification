@@ -17,7 +17,7 @@ This repository contains the official implementation of the research paper title
 
 
 <p align="center">
-  <img src="images/model.png" width="800"/>
+  <img src="images/model.png" width="400"/>
 </p>
 
 
